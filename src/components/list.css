@@ -1,0 +1,13 @@
+.list-container{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    padding: .3rem;
+    margin-bottom: .5rem;
+}
+.del-checkbox{
+    display: flex;
+    align-items: centers;
+    gap: .05rem;
+}
